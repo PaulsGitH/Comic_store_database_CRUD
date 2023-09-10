@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EasyScanner
+comment0.text=\r\n\ This\ is\ the\ Scanner\ class,\ incudes\ validation\ for\ Integers.\r\n\r\n\ @author\ Paul\ Dolan\ 20096590\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=int\ nextInt()
+comment1.text=\r\n\ Scans\ for\ the\ input\ of\ an\ integer\ value,\ will\ crash\ upon\ input\ of\ anything\ other\ than\ an\ integer.\r\n\ I\ included\ a\ validation,\ this\ stops\ the\ system\ from\ crashing\ upon\ input\ of\ a\r\n\ character\ at\ any\ point\ in\ the\ options\ of\ any\ methods\ requiring\ input\ of\ an\ integer.\r\n
+comment2.params=
+comment2.target=double\ nextDouble()
+comment3.params=
+comment3.target=java.lang.String\ nextString()
+comment4.params=
+comment4.target=char\ nextChar()
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=iCustomer
+comment0.text=\r\n\ iCustomer\ class,\ allows\ the\ shared\ name\ and\ customerID\ of\ both\ classes\ to\ be\ displayed\ as\ a\ membership\ card\r\n\r\n\ @author\ (Paul\ Dolan\ 20096590)\r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=java.lang.String\ printmembershipCard()
+numComments=2

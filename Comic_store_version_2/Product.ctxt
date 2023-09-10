@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\r\n\ Product\ class.Includes\ the\ shared\ attribute\ of\ all\ products,\ a\ product\ number.\r\n\ Due\ to\ the\ high\ variance\ of\ attributes\ to\ represent\ a\ product\ in\ a\ online\ comic\ store,\ I\ could\ only\ include\ a\ product\ number\r\n\ as\ a\ shared\ attribute.\r\n\ \r\n\r\n\ @author\ (Paul\ Dolan\ 20096590)\r\n\ @version\ (2.0)\r\n
+comment1.params=productNo
+comment1.target=Product(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Product\r\n
+comment2.params=
+comment2.target=double\ productPrice()
+comment3.params=
+comment3.target=java.lang.String\ getproductNo()
+comment3.text=\r\n\ Getters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ the\ contents\ of\ the\ variable\r\n
+comment4.params=productNo
+comment4.target=void\ setproductNo(java.lang.String)
+comment4.text=\r\n\ Setters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ String\ parameter\r\n\ @return\ \ \ \ Nothing\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,27 @@
+<object-stream>
+  <list>
+    <RegularCustomer>
+      <name>Customer 1</name>
+      <customerId>878968</customerId>
+      <AccountStatus>Free Tier</AccountStatus>
+      <RegularShipping>Regular Shipping</RegularShipping>
+    </RegularCustomer>
+    <PremiumCustomer>
+      <name>Customer 2</name>
+      <customerId>74384</customerId>
+      <PremiumAccountStatus>Premium</PremiumAccountStatus>
+      <AccessPreOrder>Pre-order Access</AccessPreOrder>
+      <PriorityShipping>Priority Shipping</PriorityShipping>
+    </PremiumCustomer>
+  </list>
+  <list>
+    <Comic>
+      <productNo>87659</productNo>
+      <comicName>Amazing Spider-Man</comicName>
+      <comicArtist>Marc Webb</comicArtist>
+      <comicWriter>M. DeMatteis</comicWriter>
+      <comicPublisher>Marvel</comicPublisher>
+      <comicISBN>7896876987</comicISBN>
+    </Comic>
+  </list>
+</object-stream>

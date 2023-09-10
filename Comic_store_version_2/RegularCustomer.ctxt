@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=RegularCustomer
+comment0.text=\r\nReprsents\ the\ attributes\ of\ a\ premium\ account,\ includes\ options\ that\ are\ unavailable\ to\ regular\ customers\ \r\n\ @author\ Paul\ Dolan\ 20096590\r\n\ @version\ 2.0\r\n
+comment1.params=name\ customerId\ Address\ AccountStatus\ RegularShipping
+comment1.target=RegularCustomer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PostGraduate\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAccountStatus()
+comment2.text=\r\n\ Getters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ the\ contents\ of\ the\ variable\r\n
+comment3.params=
+comment3.target=java.lang.String\ getRegularShipping()
+comment4.params=AccountStatus
+comment4.target=void\ setAccountStatus(java.lang.String)
+comment4.text=\r\n\ Setters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ String\ parameter\r\n\ @return\ \ \ \ Nothing\r\n
+comment5.params=RegularShipping
+comment5.target=void\ setRegularShipping(java.lang.String)
+comment6.params=
+comment6.target=double\ registrationFee()
+comment7.params=
+comment7.target=java.lang.String\ printmembershipCard()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

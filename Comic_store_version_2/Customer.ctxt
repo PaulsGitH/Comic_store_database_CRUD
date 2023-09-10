@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Customer\ Class.\ Represents\ that\ attributes\ typically\ associated\ with\ documenting\ a\ customer\ to\ store\ in\ a\ database\r\n\r\n\ @author\ (Paul\ Dolan)\r\n\ @version\ (2.0)\r\n
+comment1.params=name\ customerId\ Address
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Student\r\n
+comment2.params=
+comment2.target=double\ registrationFee()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Getters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ \ No\ parameters\r\n\ @return\ \ \ \ the\ contents\ of\ the\ variable\r\n
+comment4.params=
+comment4.target=java.lang.String\ getcustomerId()
+comment5.params=
+comment5.target=java.lang.String\ getAddress()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment6.text=\r\n\ Setters\ for\ each\ Variable\r\n\r\n\ @param\ \ \ \ \ String\ parameter\r\n\ @return\ \ \ \ Nothing\r\n
+comment7.params=Address
+comment7.target=void\ setAddress(java.lang.String)
+comment8.params=customerId
+comment8.target=void\ setcustomerId(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
